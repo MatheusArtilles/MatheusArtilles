@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá! Meu Nome é Matheus Artilles! Bem vindo(a) ao meu GitHub 👋😉
+##
+Atualmente estou fazendo graduação em Ciência da Computação pela Estácio e realizando especialização no curso profissionalizante Certified Tech Developer da Digital House.
+##
+### Linguagens e Frameworks utilizados 🔨
+- HTML
+- CSS
+- JavaScript
+- SASS
+- Bootstrap
+##
+### Status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusArtilles&show_icons=true&theme=tokyonight)
 
-<!--
-**MatheusArtilles/MatheusArtilles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
